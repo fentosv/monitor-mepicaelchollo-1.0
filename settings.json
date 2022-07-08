@@ -1,0 +1,36 @@
+{
+    "blackList": [
+        "jamon",
+        "jamón",
+        "chuletas",
+        "chorizo",
+        "panceta",
+        "entrecot",
+        "solomillo",
+        "queso"
+    ],
+    "whiteList": [
+        "impresora",
+        "procesador",
+        "nvidia",
+        "ryzen",
+        " ram ",
+        "proyector",
+        "asics",
+        "deportivas",
+        "samsung",
+        "xiaomi",
+        "msi",
+        "asus",
+        "huawei",
+        "raspberry",
+        "amd",
+        "ryzen",
+        "monitor",
+        "teclado",
+        "microondas",
+        "mouse",
+        "ratón",
+        "logitech"
+    ]
+}
